@@ -61,7 +61,7 @@ class CheckingAccount(Account):
 
 accounts = [
     SavingAccount("Kingsley", 1000),
-    CheckingAccount("Mary", 500)
+    CheckingAccount("Mary", 490)
 ]
 
 for acc in accounts:
